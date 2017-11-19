@@ -16,6 +16,7 @@
 | Material Icons | 3.0.1 | Material icons font |
 | Font Awesome | 4.7.0 | Fontawesome icons font |
 | Ionicons | 2.0.1 | Ionicons font |
+| Typicons | 2.0.9 | Typicons font |
 | Animate.css | 3.5.2 | Bundle of animations you can use in your website/app |
 
 ## Supporting Quasar
